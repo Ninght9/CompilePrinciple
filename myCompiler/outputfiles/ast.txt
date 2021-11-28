@@ -1,0 +1,17 @@
+a = 8
+t0 = a
+b = 5
+t1 = b
+c = 3
+t2 = c
+t3 = a * b
+t4 = a - b
+t5 = t3 + t4
+t6 = t5 + c
+result = t6
+t8 = a - b
+t9 = a - c
+t10 = t8 + t9
+t11 = a - c
+t12 = t10 + t11
+d = t12

@@ -1,0 +1,4 @@
+(result,int,0)
+(a,int,4)
+(b,int,8)
+(c,int,12)

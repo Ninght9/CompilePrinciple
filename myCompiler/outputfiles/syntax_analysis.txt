@@ -1,0 +1,71 @@
+S'->int ID
+accept a sentense!
+S'->int ID
+accept a sentense!
+S'->int ID
+accept a sentense!
+S'->int ID
+accept a sentense!
+B->INT_NUM
+A->B
+S->A
+S'->ID=S
+accept a sentense!
+B->INT_NUM
+A->B
+S->A
+S'->ID=S
+accept a sentense!
+B->INT_NUM
+A->B
+S->A
+S'->ID=S
+accept a sentense!
+B->ID
+A->B
+B->ID
+A->A*B
+S->A
+B->ID
+A->B
+S->A
+B->ID
+A->B
+S->S-A
+B->(S)
+A->B
+S->S+A
+B->ID
+A->B
+S->S+A
+S'->ID=S
+accept a sentense!
+B->ID
+A->B
+S->A
+B->ID
+A->B
+S->S-A
+B->(S)
+A->B
+S->A
+B->ID
+A->B
+S->A
+B->ID
+A->B
+S->S-A
+B->(S)
+A->B
+S->S+A
+B->ID
+A->B
+S->A
+B->ID
+A->B
+S->S-A
+B->(S)
+A->B
+S->S+A
+S'->ID=S
+accept a sentense!
